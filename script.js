@@ -24,7 +24,7 @@ function appendMessage(text, sender, isTyping = false) {
 
 async function getChatGPTResponse(message) {
   try {
-    const response = await fetch('http://localhost:3000/chat', {
+    const response = await fetch('https://clonegptbackend.onrender.com/chat', {
       method: 'POST',
       headers: { 'Content-Type': 'application/json' },
       body: JSON.stringify({ message })
