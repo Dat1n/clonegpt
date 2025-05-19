@@ -188,7 +188,7 @@ button:hover {
 
 .code-line {
   position: absolute;
-  color: rgba(100, 100, 100, 0.15);
+  color: rgba(0, 0, 0, 0.5);
   font-size: 11px;
   white-space: nowrap;
   opacity: 0;
@@ -205,10 +205,10 @@ button:hover {
     opacity: 0;
   }
   10% {
-    opacity: 2;
+    opacity: 1;
   }
   90% {
-    opacity: 2;
+    opacity: 1;
   }
   100% {
     transform: translateY(110vh);
