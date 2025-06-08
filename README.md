@@ -4,8 +4,7 @@ ClonGPT is a custom ChatGPT clone that uses the OpenAI API to power natural lang
 
 ## 🌐 Live Demo
 
-> 🚀 [ClonGPT Live Preview](https://your-deployment-link.com)  
-> [](https://dat1n.github.io/clonegpt/)
+> 🚀 [ClonGPT Live Preview](https://dat1n.github.io/clonegpt/)
 
 ---
 
@@ -44,6 +43,7 @@ clongpt/
 | Styling    | Custom CSS — "Rain of Coding"    |
 | Security   | `.env` for API key management    |
 
+---
 
 
 🌈 "Rain of Coding" Design
@@ -60,6 +60,9 @@ Light/Dark mode toggle
 
 🎨 Perfect for code lovers who want a ChatGPT clone that feels alive!
 
+---
+
+
 📸 Screenshots
 
 Chat UI	Rain Animation
@@ -69,6 +72,7 @@ Chat UI	Rain Animation
 
 ![Screenshot 2025-06-08 181859](https://github.com/user-attachments/assets/ab6c93a1-be91-425e-8947-2c91fe4f807e)
 
+---
 
 📦 Features
 
@@ -82,6 +86,9 @@ Chat UI	Rain Animation
 
 ✅ Custom CSS rain animation
 
+---
+
+
 💡 Future Ideas
 
 🔒 Auth & User Sessions
@@ -91,6 +98,9 @@ Chat UI	Rain Animation
 🖼️ Image generation (DALL·E API)
 
 📱 PWA Support
+
+---
+
 
 
 
